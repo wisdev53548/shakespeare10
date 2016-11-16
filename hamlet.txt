@@ -6,6 +6,6 @@ POLONIUS: I'm behind a curtain@
 
 YORICK: I'm skull.
 
-HAMLET: Alas about all that.
+HAMLET: Alas poor skull, you're gross.
 
 END
