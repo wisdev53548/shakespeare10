@@ -1,11 +1,11 @@
-HAMLET
+HAMLETTE
 
 KING GUY?: I'm a ghoooost!
 
-POLONIUS: I'm behind a curtain@
+POLONIUS: I'm behind a curtain!
 
 YORICK: I'm skull.
 
-HAMLET: Alas poor skull, you're gross.
+HAMLETTE: Alas poor skull, you're gross.
 
 END
