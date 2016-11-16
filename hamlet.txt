@@ -1,0 +1,9 @@
+HAMLET
+
+KING GUY?: I'm a ghoooost!
+
+POLONIUS: I'm behind a curtain@
+
+YORICK: I'm skull.
+
+END
