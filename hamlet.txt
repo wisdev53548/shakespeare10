@@ -1,4 +1,4 @@
-HAMLET
+HAMLETTE
 
 KING GUY?: I'm a ghoooost!
 
@@ -6,6 +6,6 @@ POLONIUS: I'm behind a curtain@
 
 YORICK: I'm skull.
 
-HAMLET: Alas about all that.
+HAMLETTE: Alas about all that.
 
 END
